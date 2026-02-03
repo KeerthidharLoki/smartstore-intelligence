@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+*.egg
+dist/
+build/
+
+# YOLOv8 model weights (auto-downloaded at runtime)
+*.pt
+*.onnx
+*.engine
+
+# Environment
+.env
+
+# Eval results (local runs only)
+eval_results/
+
+# Node / React
+node_modules/
+frontend/build/
+frontend/.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Internal tooling state
+.omc/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Demo video (too large for git)
+demo/*.mp4
+demo/*.avi
