@@ -10,16 +10,6 @@
 
 ---
 
-## Demo
-
-> *(Record a 30-second screen capture with `demo/mall_sample.mp4` and replace this with an animated GIF)*
-
-```
-[demo.gif placeholder — run the project and record a screen capture]
-```
-
----
-
 ## What It Does
 
 SmartStore Intelligence processes live video feeds from retail cameras to give store managers
